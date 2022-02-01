@@ -1,1 +1,2 @@
 A few quick modifications
+practict for writing a commit description
